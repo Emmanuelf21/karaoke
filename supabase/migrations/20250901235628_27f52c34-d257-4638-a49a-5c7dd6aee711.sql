@@ -8,7 +8,7 @@ SET image_url = 'https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?ix
 WHERE name = 'Studio B - Party Room';
 
 UPDATE karaoke_rooms 
-SET image_url = 'https://images.unsplash.com/photo-1574391884720-bbc2f89023ef?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80'
+SET image_url = 'https://img.freepik.com/fotos-premium/sala-de-karaoke-vazia-com-sofa-de-perimetro-e-decoracao-de-madeira-com-mesa-de-espelho-e-microfones-sem-fio_449839-21.jpg'
 WHERE name = 'Studio C - Intimate';
 
 UPDATE karaoke_rooms 
